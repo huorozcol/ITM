@@ -1,0 +1,11 @@
+"""
+1. Clonar el repositorio https://github.com/huorozcol/ITM
+2 Instalar las dependencias antes de correr el programa:
+    pip install -r requerimientos.txt
+3. Iniciar el programa. El script principal es gui.py
+4. En los input box, no escribir nada, pues no lo va a tener en cuenta.
+5. Si el equipo se pone lento, por bajos recursos, mover la barra que dice Frame Skip
+
+Cualquier duda, me avisa
+
+"""
